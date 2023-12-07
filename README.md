@@ -1,6 +1,8 @@
-
+<h1>Shio の Github</h1>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
-<h2 height="200px" align="center"> 🎉 About Me</h2>
+
+
+## 🙋 Hello！
 <br />
 
   <ul>
@@ -46,7 +48,22 @@
 </div>
 <hr/>
 <h2 align="center"><img src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966" data-canonical-src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"> My Github status</h2>
-  <span style="display: flex; justify-content: center; align-items: center;" ><img  height="190px" src="https://github-readme-stats.vercel.app/api?username=zhshio&show_icons=true&theme=tokyonight" /></span>
-  <span style="display: flex; justify-content: center; align-items: center;" ><img  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhshio&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"  /></span>
-  <span style="display: flex; justify-content: center; align-items: center;" ><img  height="190px" src="https://streak-stats.demolab.com/?user=zhshio"/></span>
-  <span style="display: flex; justify-content: center; align-items: center;" ><img  height="190px" src="https://leetcard.jacoblin.cool/zhshio?site=cn&theme=unicorn"  /></span>
+
+## 🧠 学习计划
+
+试图逃离日复一日的 CRUD 生活，最近的学习计划是看看 Spring 的源码，学习一下 go 语言！
+      
+## 🏆 数据统计
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SalengNotLittleMeng&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SalengNotLittleMeng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalengNotLittleMeng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <br/>
+  <img height="137px" src="https://streak-stats.demolab.com/?user=zhshio"/>
+  <img height="137px" src="https://leetcard.jacoblin.cool/zhshio?site=cn&theme=unicorn"  />
+</div>
