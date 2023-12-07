@@ -1,31 +1,17 @@
-### <h1 align="center">Hi,I am Shio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
+<h2 height="200px" align="center"> 🎉 About Me</h2>
+<br />
 
-<div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a >
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=println(%22不要温和地走进那个良夜%22); Shio &center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="" style="max-width: 100%;"  >
-
-<p><b>The answer explains all, hard work is the best answer.</b></p>
-</div>
-
-
-<hr/>   
-<h2 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
-<div> 
   <ul>
-    <li>🏦我是中国的一个 Java 后端的菜鸟程序员，还请各位大佬多多指教！ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"> </li>
+    <li>🏦我是中国的一个 Java 后端的菜鸟程序员，还请各位大佬多多指教！ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Hello_Big.gif" style="width: 25px; display: inline-block;" data-target="animated-image.originalImage"> </li>
     <li>📝 我个人比较喜欢分享，经常在<a href="https://zhshio.cn">我的个人博客<a/>分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
     <li>💻 本人是一名后端程序员，主要技术栈为<b>Java、Go、SQL以及前端三件套(HTML、CSS、JavaScript)。</b></li>
     <li>💬 主要项目： EasySpring </li>
     <li>👯 兴趣爱好： 没事吹吹口琴， 床上睡大觉</li>
     <li>✨<a href="https://github.com/zhshio">然后求各位大佬有时间的话可以点一下星星，感谢感谢！！！ <br>  </li>
     <li>⚡ motto: Le vent se lève, il faut tenter de vivre </li>
-    <li>🧑‍💻 常用开发工具：</li>
+    <li> 常用开发工具：</li>
     <span>
     <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="java" width="65" height="65" data-canonical-src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="width: 50px;">   
     </span>
