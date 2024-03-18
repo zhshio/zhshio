@@ -13,11 +13,11 @@
   </ul>
 </div>
 <hr/>
-<!--
+      
 ## :sparkles: 提交记录
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/zhshio/zhshio/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/zhshio/zhshio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
--->
+![github contribution grid snake animation](https://raw.githubusercontent.com/zhshio/zhshio/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/zhshio/zhshio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 🧠 学习计划
 
@@ -48,6 +48,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  
   <br/>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -55,7 +56,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   
 </p>
 
